@@ -5,7 +5,7 @@
 <h2>branch1 commit2!</h2>
 =======
 <h2>branch2 commit1!</h2>
-<h2>branch2 commit2!</h2>
+<h2>branch2 commit3!</h2>
 >>>>>>> branch2
 </body>
 </html>
